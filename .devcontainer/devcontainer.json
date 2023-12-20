@@ -3,5 +3,28 @@
     "features": {
         "ghcr.io/rocker-org/devcontainer-features/rstudio-server": {}
     },
-    "postCreateCommand": "Rscript .setup/install-r-packages.R"
+    "postCreateCommand": "Rscript .setup/install-r-packages.R",
+    "customizations": {
+        "vscode":{
+            "settings": {
+                "editor.autoClosingQuotes": "never",
+                "editor.autoClosingBrackets": "never",
+                "editor.autoSurround": "never",
+                "workbench.colorTheme": "Monokai Dimmed",
+                "git.autofetch": true,
+                "editor.quickSuggestions": {
+                    "comments": "off",
+                    "strings": "off",
+                    "other": "off"
+                },
+                "editor.wordBasedSuggestions": "off",
+                "git.ignoreLegacyWarning": true,
+                "git.enableSmartCommit": true,
+            },
+            "extensions": [
+                "jupyter",
+                "python"
+            ]
+        }
+    }
 }
