@@ -7,4 +7,3 @@ install.packages('IRkernel')
 
 library(IRkernel)
 
-IRkernel::installspec()
