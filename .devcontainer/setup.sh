@@ -6,6 +6,6 @@ R -e 'install.packages("data.table")'
 R -e 'install.packages("ggthemes")'
 R -e 'install.packages("cowplot")'
 R -e 'install.packages("IRkernel")'
-R -e 'IRkernel::installspec()'
+R -e 'IRkernel::installspec(user = FALSE)'
 
 unset DEBIAN_FRONTEND
