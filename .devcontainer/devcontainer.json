@@ -22,8 +22,8 @@
                 "git.enableSmartCommit": true,
             },
             "extensions": [
-                "jupyter",
-                "python"
+                "ms-python.python",
+                "ms-toolsai.jupyter"
             ]
         }
     }
