@@ -1,11 +1,16 @@
-# R environments
+## README
 
-The VS Code window has three main sections:
-- The File Browser
-- The Text Editor
-- The Terminal
+## Visual Studio (VS) Code
+
+VS Code is a text editor with built-in coding features. There are a lot of aspects not mentioned here, but we'll focus on three primary features:
 
 ![](.assets/vscode-window.png)
+
+*The File Browser* for viewing file/folder structure, opening/creating/deleting files, or copying (drag and drop) files from other locations. 
+
+*The Text Editor* for viewing or editing text files/Jupyter notebooks, and previewing images.
+
+*The Terminal* for executing commands via the Linux command-line.
 
 ## GitHub Codespace
 A _GitHub Codespace_ is a virtual machine[^1] (VM) that you interface using Visual Studio (VS) Code. 
