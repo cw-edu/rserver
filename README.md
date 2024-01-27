@@ -12,6 +12,7 @@ GitHub codespaces is a cloud computing service that provides **virtual machine**
 Codespaces are accessed via a **Visual Studio Code** interface. Visual Studio (VS) Code is a text editor with built-in coding features.
 
 To launch your own codespace for this repository, click the green `<> Code` button near the top of this page, ensure the `Codespaces` tab is selected, then `Create codespace on main`.
+
 **Note**: If you already have an active codespace, it will be listed here, and you can click to reconnect.
 
 It will take ~4 minutes for the setup to fully complete the first time.
@@ -39,6 +40,8 @@ Once setup is complete and you see the following prompt, it is ready for you to 
 ```
 
 ## Running R in the codespace
+
+**Note**: If ever your terminal is not visible within VS Code, its visibility can be toggled with `CTRL`+`` ` `` (the key to the left of `1` on the keyboard).
 
 To run **R in Terminal**, simply execute the command `R` within the terminal at the bottom of the window, and it will start an interactive `R` session.
 
