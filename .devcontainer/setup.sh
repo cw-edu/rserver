@@ -8,4 +8,6 @@ R -e 'install.packages("cowplot")'
 R -e 'install.packages("IRkernel")'
 R -e 'IRkernel::installspec(user = FALSE)'
 
+git submodule update --init --recursive
+
 unset DEBIAN_FRONTEND
