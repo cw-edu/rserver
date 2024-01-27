@@ -4,7 +4,6 @@ This repository serves as a template `R` environment with `data.table` and `ggpl
 In short, we can use the VS code text editor interface to connect to an emulated computer and run code over the internet.
 The `cw-edu` organization utilizes GitHub for Education, providing educational credits for codespace compute hours.
 There should be no cost to you to use the service.
-Indidividual topics are included as submodules pointing to their own Git repository.
 
 ## Cloud Computing with GitHub Codespaces
 GitHub codespaces is a cloud computing service that provides **virtual machine** access. A virtual machine (VM) is an emulated computer system. A single powerful computer can simultaneously emulate many smaller VMs. 
