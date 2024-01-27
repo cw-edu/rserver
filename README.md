@@ -10,9 +10,6 @@ Codespaces are accessed via a **Visual Studio Code** interface. Visual Studio (V
 In short, we can use the VS code text editor to connect to an emulated computer and run code over the internet.
 Cloud computing costs are already handled
 
-## The VS Code Interface
-
-
 ## GitHub codespace
 You can launch your own codespace for this repository by clicking the green `<> Code` button, then `Create codespace on main`.
 In total, it will take ~4 minutes for the setup to fully complete the first time. Once your codespace exists, so long as it
