@@ -1,19 +1,21 @@
 ## README
 
-This repository serves as a template `R` environment with `data.table` and `ggplot2` pre-installed. It exists within the `cw-edu` organization which utilizes GitHub for Education, providing educational credits for codespace compute hours--there should be no cost to you to use the service. Indidividual topics are included as submodules, e.g. [`data-wrangling-R`](data-wrangling-R).
+This repository serves as a template `R` environment with `data.table` and `ggplot2` pre-installed.
+In short, we can use the VS code text editor interface to connect to an emulated computer and run code over the internet.
+The `cw-edu` organization utilizes GitHub for Education, providing educational credits for codespace compute hours.
+There should be no cost to you to use the service.
+Indidividual topics are included as submodules, e.g. [`data-wrangling-R`](data-wrangling-R).
 
 ## Cloud Computing with GitHub Codespaces
 GitHub codespaces is a cloud computing service that provides **virtual machine** access. A virtual machine (VM) is an emulated computer system. A single powerful computer can simultaneously emulate many smaller VMs. 
 
 Codespaces are accessed via a **Visual Studio Code** interface. Visual Studio (VS) Code is a text editor with built-in coding features.
 
-In short, we can use the VS code text editor to connect to an emulated computer and run code over the internet.
-Cloud computing costs are already handled
+You can launch your own codespace for this repository by clicking the green `<> Code` button, ensure the `Codespaces` tab is selected, then `Create codespace on main`.
+**Note**: If you already have an active codespace, it will be listed here, and you can click to reconnect.
 
-## GitHub codespace
-You can launch your own codespace for this repository by clicking the green `<> Code` button, then `Create codespace on main`.
-In total, it will take ~4 minutes for the setup to fully complete the first time. Once your codespace exists, so long as it
-isn't deleted due to inactivity, it will reconnect quickly.
+It will take ~4 minutes for the setup to fully complete the first time.
+Once your codespace exists, so long as it isn't deleted due to inactivity, it will reconnect quickly.
 
 Once the VS Code interface loads, you will see something like the following, with three primary sections:
 ![](.assets/vscode-window.png)
