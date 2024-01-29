@@ -10,7 +10,7 @@ GitHub codespaces is a cloud computing service that provides **virtual machine**
 
 Codespaces are accessed via a **Visual Studio Code** interface. Visual Studio (VS) Code is a text editor with built-in coding features.
 
-To launch your own codespace for this repository, click the green `<> Code` button near the top of this page, ensure the `Codespaces` tab is selected, then `Create codespace on main`.
+To launch your own codespace for this repository, click the green `<> Code` button near the "about" section for this page. Ensure the `Codespaces` tab is selected, then `Create codespace on main`.
 
 **Note**: If you already have an active codespace, it will be listed here, and you can click to reconnect.
 
